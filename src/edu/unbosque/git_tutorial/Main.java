@@ -3,6 +3,6 @@ package edu.unbosque.git_tutorial;
 public class Main {
     public static void main (String[] arg){
 
-        System.out.println("Hello World");
+        System.out.println("Hello World ; we are in the GitHub Curse");
     }
 }
